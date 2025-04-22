@@ -1,3 +1,5 @@
+TODO: Crear O Generar un virtualenv con lo siguiente: (Seguir los pasos según el orden de la lista)
+
 TODO: Virtual env -Global
 py -m pip install virtualenv
 
